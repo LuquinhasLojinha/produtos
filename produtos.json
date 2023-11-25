@@ -16,7 +16,7 @@
       "title": "Disney+",
       "desc": "O maior catalogo para o publico infantil e jovem",
       "cor_1": "--azul",
-      "cor_2": "--preto",
+      "cor_2": "--azul-claro",
       "price_tela": "5",
       "price_conta": "15",
       "planos_disponiveis": ["Mensal", "Anual", "Autopagavel"],
