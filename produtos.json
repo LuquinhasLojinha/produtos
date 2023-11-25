@@ -9,7 +9,7 @@
       "price_conta": "35",
       "planos_disponiveis": ["Mensal", "Anual", "Autopagavel"],
       "tipos_disponiveis": ["Conta", "Tela"],
-      "image": "netflix.png"
+      "image": "https://raw.githubusercontent.com/LuquinhasLojinha/produtos/main/imagens/netflix.png"
     },
     {
       "id": 2,
@@ -21,7 +21,7 @@
       "price_conta": "15",
       "planos_disponiveis": ["Mensal", "Anual", "Autopagavel"],
       "tipos_disponiveis": ["Conta", "Tela"],
-      "image": "disney.png"
+      "image": "https://raw.githubusercontent.com/LuquinhasLojinha/produtos/main/imagens/disney.png"
     },
     {
       "id": 3,
@@ -33,7 +33,7 @@
       "price_conta": "15",
       "planos_disponiveis": ["Mensal", "Anual", "Autopagavel"],
       "tipos_disponiveis": ["Conta", "Tela"],
-      "image": "starplus.png"
+      "image": "https://raw.githubusercontent.com/LuquinhasLojinha/produtos/main/imagens/starplus.png"
     },
     {
       "id": 4,
@@ -45,7 +45,7 @@
       "price_conta": "30",
       "planos_disponiveis": ["Mensal", "Anual", "Autopagavel"],
       "tipos_disponiveis": ["Conta", "Tela"],
-      "image": "globoplay.png"
+      "image": "https://raw.githubusercontent.com/LuquinhasLojinha/produtos/main/imagens/globoplay.png"
     }
   ]
 
