@@ -28,7 +28,7 @@
       "title": "Star+",
       "desc": "Melhor plataforma de seriados e filmes atuais",
       "cor_1": "--laranja",
-      "cor_2": "--preto",
+      "cor_2": "--roxo-claro",
       "price_tela": "5",
       "price_conta": "15",
       "planos_disponiveis": ["Mensal", "Anual", "Autopagavel"],
